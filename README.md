@@ -17,14 +17,13 @@ This project is designed to showcase **core JavaScript skills** such as working 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **HTML5** – Page structure
 * **CSS3** – Styling
 * **JavaScript (ES6)** – Logic & DOM manipulation
 * **API:** JSONPlaceholder (via Scrimba proxy)
 * **Version Control:** Git & GitHub
-* **Deployment:** GitHub Pages / Netlify
 
 ---
 
