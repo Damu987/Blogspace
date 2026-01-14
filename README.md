@@ -86,7 +86,8 @@ open index.html
 
 ## 📸 Screenshots
 
-*Add screenshots of the BlogSpace UI here*
+*<img width="400" height="400" alt="Image1" src="https://github.com/user-attachments/assets/8bb6d637-999c-4c8f-a8bd-b6f5e1ab62e9" />
+
 
 ---
 
